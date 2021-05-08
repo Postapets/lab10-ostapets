@@ -4,20 +4,6 @@
 <style>
     td{width:130px;border:1px ridge black}
 </style>
-<script type="text/javascript">
-function Table()
-{ 
-    var table = document.getElementById('tbl'),
-        tr = table.getElementsByTagName('tr'),
-        rows = tr.length;
-    for (var i=1; i<rows; i++){
-		var col = tr[i].getElementsByTagName('td');
-        var tmp = col[0].innerHTML;
-        col[0].innerHTML = col[1].innerHTML;
-        col[1].innerHTML = tmp;
-    }
-}
-</script>
 </head>
 <body>
 <?php
@@ -138,6 +124,3 @@ function Table()
 ?>
 </body>
 </html>
-<script>
-Table();
-</script>
