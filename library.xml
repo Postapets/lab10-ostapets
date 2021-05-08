@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+     <library>
+             <book>
+                     <author>Р.А.Уайк</author>
+                     <title>PHP. Справочник</title>
+                     <published>2001</published>
+                     <pages>448</pages>
+                     <price>180</price>
+                     <rating>3</rating>
+             </book>
+
+             <book>
+                     <author>Дж.Кастаньетто</author>
+                     <title>Профессиональное программирование на PHP</title>
+                     <published>2001</published>
+                     <pages>912</pages>
+                     <price>300</price>
+                     <rating>4</rating>
+             </book>
+
+             <book>
+                     <author>Н.Питтс</author>
+                     <title>XML за рекордный срок</title>
+                     <published>2000</published>
+                     <pages>444</pages>
+                     <price>150</price>
+                     <rating>4</rating>
+             </book>
+
+             <book>
+                     <author>Ф.Бамфрей</author>
+                     <title>XML -- новые перспективы</title>
+                     <published>2000</published>
+                     <pages>688</pages>
+                     <price>240</price>
+                     <rating>5</rating>
+             </book>
+     </library>
